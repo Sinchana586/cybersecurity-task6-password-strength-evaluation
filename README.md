@@ -1,0 +1,1 @@
+# cybersecurity-task6-password-strength-evaluation
